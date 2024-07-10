@@ -4,7 +4,7 @@ Text referring to implementing lua into a host C program has largely been remove
 
 For example,
 ``` vim
-    :help lua_reference_toc
+    :help lua-reference-toc
     :help math.pi
     :help coroutine.yield
 ```
